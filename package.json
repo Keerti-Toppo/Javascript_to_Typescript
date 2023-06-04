@@ -1,0 +1,17 @@
+{
+  "name": "javascript_to_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keerti Toppo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.1",
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.4"
+  },
+  "tsc:w": "tsc -w"
+}
